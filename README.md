@@ -18,3 +18,5 @@ After changing the execution policy, you can run it by *right-clicking* and pres
 ## Things to do in future
 1. Find a way to refresh programs after toggling with the script.
 2. Look for other ways to implement the system.
+3. Maybe compile the script into an executable and release that way?
+4. Add support for other Windows system programs, such as *Task Manager*.
